@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 30  # Order that this section will appear.
 
-title = "Projects"
+title = "Teaching"
 subtitle = ""
 
 [content]
@@ -75,3 +75,12 @@ subtitle = ""
  css_class = ""
 +++
 
+
+## Teaching 
+* 2018-19: POU3141: Politics and Irish Society (Undergraduate)
+* 2018-19: POU3141: Political Participation and Behaviour (Undergraduate)
+* 2019-21: POU33102 Political Violence and Conflict in Comparative Context (Undergraduate)
+* 2019-21: POU33091 Theories of Political Violence and Conflict (Undergraduate)
+
+		
+		
